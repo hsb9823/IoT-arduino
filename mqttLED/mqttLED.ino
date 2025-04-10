@@ -12,7 +12,7 @@
 // 접속할 ssid와 비밀번호 설정 / 접속할 mqttsever ip 설정
 const char* ssid = "306";
 const char* password = "14239823";
-const char* mqtt_server = "192.168.0.28"; //raspberry pi3 server 1 IP
+const char* mqtt_server = "192.168.0.28"; //raspberry pi4 server 1 IP
 
 WiFiClient wifiClient;
 PubSubClient client(wifiClient);
