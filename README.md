@@ -13,3 +13,4 @@
 **DHT11과 LED가 연결된 2개의 ESP8266보드는 MQTT통신을 위해 Topic을 Publish 해준다.** </br>
 **스마트폰 MQTT DASH 어플리케이션에서 동일한 Topic을 Subscribe 하여 스마트폰에서 ESP8266의 GPIO 제어**</br>
 
+## 결과
