@@ -13,3 +13,4 @@
 **스마트폰 MQTT DASH 어플리케이션에서 동일한 Topic을 Subscribe 하여 스마트폰에서 ESP8266의 GPIO 제어**</br>
 
 ## 결과
+###Iot_smaller.mp4 파일 확인
